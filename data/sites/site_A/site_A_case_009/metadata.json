@@ -1,0 +1,15 @@
+{
+  "case_id": "site_A_case_009",
+  "site_id": "site_A",
+  "spacing": [
+    0.5129465973946873,
+    0.5129465973946873,
+    0.5129465973946873
+  ],
+  "modalities": [
+    "T2W",
+    "ADC"
+  ],
+  "has_lesion": true,
+  "synthetic_shift_type": "clean"
+}

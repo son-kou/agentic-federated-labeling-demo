@@ -1,0 +1,8 @@
+{
+  "model_name": "HeuristicAutoLabeler",
+  "model_version": "0.1.0",
+  "generated_at": "2026-04-27T13:35:30.550210Z",
+  "input_case_id": "site_B_case_005",
+  "label_type": "prostate_gland",
+  "confidence_score": 0.9599
+}

@@ -1,0 +1,111 @@
+[
+  {
+    "case_id": "site_C_case_010",
+    "site_id": "site_C",
+    "priority_score": 0.4682,
+    "rank": 1,
+    "reasons": [
+      "Prostate volume implausibly small \u2014 possible under-segmentation.",
+      "Case from a high-shift site \u2014 model accuracy may be degraded."
+    ]
+  },
+  {
+    "case_id": "site_C_case_006",
+    "site_id": "site_C",
+    "priority_score": 0.3332,
+    "rank": 2,
+    "reasons": [
+      "Case from a high-shift site \u2014 model accuracy may be degraded."
+    ]
+  },
+  {
+    "case_id": "site_C_case_000",
+    "site_id": "site_C",
+    "priority_score": 0.3326,
+    "rank": 3,
+    "reasons": [
+      "Case from a high-shift site \u2014 model accuracy may be degraded."
+    ]
+  },
+  {
+    "case_id": "site_C_case_009",
+    "site_id": "site_C",
+    "priority_score": 0.3326,
+    "rank": 4,
+    "reasons": [
+      "Case from a high-shift site \u2014 model accuracy may be degraded."
+    ]
+  },
+  {
+    "case_id": "site_C_case_001",
+    "site_id": "site_C",
+    "priority_score": 0.3297,
+    "rank": 5,
+    "reasons": [
+      "Case from a high-shift site \u2014 model accuracy may be degraded."
+    ]
+  },
+  {
+    "case_id": "site_C_case_005",
+    "site_id": "site_C",
+    "priority_score": 0.3283,
+    "rank": 6,
+    "reasons": [
+      "Case from a high-shift site \u2014 model accuracy may be degraded."
+    ]
+  },
+  {
+    "case_id": "site_C_case_003",
+    "site_id": "site_C",
+    "priority_score": 0.3254,
+    "rank": 7,
+    "reasons": [
+      "Case from a high-shift site \u2014 model accuracy may be degraded."
+    ]
+  },
+  {
+    "case_id": "site_C_case_002",
+    "site_id": "site_C",
+    "priority_score": 0.3243,
+    "rank": 8,
+    "reasons": [
+      "Case from a high-shift site \u2014 model accuracy may be degraded."
+    ]
+  },
+  {
+    "case_id": "site_C_case_008",
+    "site_id": "site_C",
+    "priority_score": 0.3224,
+    "rank": 9,
+    "reasons": [
+      "Case from a high-shift site \u2014 model accuracy may be degraded."
+    ]
+  },
+  {
+    "case_id": "site_C_case_011",
+    "site_id": "site_C",
+    "priority_score": 0.3185,
+    "rank": 10,
+    "reasons": [
+      "Case from a high-shift site \u2014 model accuracy may be degraded."
+    ]
+  },
+  {
+    "case_id": "site_C_case_007",
+    "site_id": "site_C",
+    "priority_score": 0.318,
+    "rank": 11,
+    "reasons": [
+      "Case from a high-shift site \u2014 model accuracy may be degraded."
+    ]
+  },
+  {
+    "case_id": "site_C_case_004",
+    "site_id": "site_C",
+    "priority_score": 0.3164,
+    "rank": 12,
+    "reasons": [
+      "Case from a high-shift site \u2014 model accuracy may be degraded."
+    ]
+  }
+]

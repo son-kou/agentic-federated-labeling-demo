@@ -1,0 +1,32 @@
+{
+  "round_number": 1,
+  "site_contributions": [
+    {
+      "site_id": "site_A",
+      "model_delta_summary": "∥Δw∥=0.05476  cosine_sim_to_global=+0.883",
+      "label_quality_summary": "pass_rate=0.92  review_rate=0.08  mean_dice=0.939  flags_seen=small_prostate_volume×1,lesion_outside_prostate×1",
+      "cases_processed": 12,
+      "cases_needing_review": 1,
+      "mean_confidence": 0.939
+    },
+    {
+      "site_id": "site_B",
+      "model_delta_summary": "∥Δw∥=0.02925  cosine_sim_to_global=+0.902",
+      "label_quality_summary": "pass_rate=0.00  review_rate=1.00  mean_dice=0.927  flags_seen=high_site_shift_risk×12",
+      "cases_processed": 12,
+      "cases_needing_review": 12,
+      "mean_confidence": 0.9272
+    },
+    {
+      "site_id": "site_C",
+      "model_delta_summary": "∥Δw∥=0.06155  cosine_sim_to_global=+0.948",
+      "label_quality_summary": "pass_rate=0.00  review_rate=1.00  mean_dice=0.925  flags_seen=high_site_shift_risk×12,small_prostate_volume×1",
+      "cases_processed": 12,
+      "cases_needing_review": 12,
+      "mean_confidence": 0.9248
+    }
+  ],
+  "global_mean_confidence": 0.9303,
+  "global_review_rate": 0.6944,
+  "notes": "Round 1: global model updated from 3 site(s). No image data left any site. Only gradient summaries and QC stats shared."
+}

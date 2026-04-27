@@ -1,0 +1,8 @@
+sites:
+  - site_A
+  - site_B
+  - site_C
+cases_per_site: 12
+volume_shape: [96, 96, 64]
+random_seed: 42
+fl_rounds: 3

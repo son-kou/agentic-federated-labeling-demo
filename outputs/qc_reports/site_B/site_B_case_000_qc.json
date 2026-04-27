@@ -1,0 +1,15 @@
+{
+  "case_id": "site_B_case_000",
+  "site_id": "site_B",
+  "prostate_volume_ml": 8.34,
+  "num_connected_components": 1,
+  "boundary_uncertainty": 0.1505,
+  "lesion_inside_prostate": null,
+  "volume_plausible": true,
+  "site_shift_risk": 0.45,
+  "status": "review_required",
+  "risk_flags": [
+    "high_site_shift_risk"
+  ],
+  "dice_vs_gt": 0.9336
+}

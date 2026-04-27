@@ -1,0 +1,8 @@
+{
+  "model_name": "HeuristicAutoLabeler",
+  "model_version": "0.1.0",
+  "generated_at": "2026-04-27T13:35:28.482106Z",
+  "input_case_id": "site_A_case_007",
+  "label_type": "lesion_candidate",
+  "confidence_score": 0.7483
+}

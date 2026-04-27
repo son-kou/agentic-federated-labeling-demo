@@ -1,0 +1,18 @@
+{
+  "site_id": "site_C",
+  "total_cases": 12,
+  "qc_pass": 0,
+  "review_required": 11,
+  "rejected": 1,
+  "qc_pass_rate": 0.0,
+  "review_rate": 0.9166666666666666,
+  "mean_confidence": 0.93535,
+  "mean_dice": 0.9248333333333333,
+  "top_review_cases": [
+    "site_C_case_010",
+    "site_C_case_006",
+    "site_C_case_000",
+    "site_C_case_009",
+    "site_C_case_001"
+  ]
+}
